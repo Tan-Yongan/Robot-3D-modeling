@@ -1,0 +1,158 @@
+﻿STEP to UG
+! INFO-     NX STEP AP203 - V11.0
+! INFO-      
+! INFO-     Start of Translation: 4-DEC-2023  9:09:12 AM
+! INFO-      
+! STATUS-   Converting Part: D:\机器人\3d建模课程\机械臂\CPJ14-BL-3-5.stp
+! SUMMARY-   
+! SUMMARY-    STEP Header Information
+! SUMMARY-   
+! SUMMARY-  Description      STEP AP203
+! SUMMARY-  Imp_Level        2;1
+! SUMMARY-  File_Name        CPJ14-BL-3-5
+! SUMMARY-  Date             2023-12-04T02:08:20+01:00
+! SUMMARY-  Author           License CC BY-ND 4.0
+! SUMMARY-  Organization     CADENAS
+! SUMMARY-  Pre_Version      ST-DEVELOPER v19.3
+! SUMMARY-  Orig_System      PARTsolutions
+! SUMMARY-  Authorization      
+! SUMMARY-  Schema_ID        ap203_configuration_controlled_3d_design_of_mechanical_parts_and_assemblies_mim_lf
+! SUMMARY-   
+! SUMMARY-    Summary of STEP Entities
+! SUMMARY-   
+! SUMMARY-  Entity Type                                                   Count
+! SUMMARY-  -----------                                                   ------
+! SUMMARY-  advanced_brep_shape_representation .........................:      3
+! SUMMARY-  advanced_face ..............................................:     90
+! SUMMARY-  application_context ........................................:      1
+! SUMMARY-  application_protocol_definition ............................:      1
+! SUMMARY-  axis2_placement_3d .........................................:    201
+! SUMMARY-  b_spline_curve_with_knots ..................................:     30
+! SUMMARY-  cartesian_point ............................................:    580
+! SUMMARY-  circle .....................................................:    107
+! SUMMARY-  closed_shell ...............................................:      3
+! SUMMARY-  conical_surface ............................................:     21
+! SUMMARY-  context_dependent_shape_representation .....................:      3
+! SUMMARY-  cylindrical_surface ........................................:     43
+! SUMMARY-  design_context .............................................:      4
+! SUMMARY-  direction ..................................................:    474
+! SUMMARY-  edge_curve .................................................:    209
+! SUMMARY-  edge_loop ..................................................:    112
+! SUMMARY-  face_bound .................................................:    112
+! SUMMARY-  geometric_representation_context_and_global_uncertainty_a ..:      4
+! SUMMARY-  item_defined_transformation ................................:      3
+! SUMMARY-  length_unit_and_si_unit ....................................:      1
+! SUMMARY-  line .......................................................:     72
+! SUMMARY-  manifold_solid_brep ........................................:      3
+! SUMMARY-  mechanical_context .........................................:      4
+! SUMMARY-  next_assembly_usage_occurrence .............................:      3
+! SUMMARY-  oriented_edge ..............................................:    418
+! SUMMARY-  plane ......................................................:     26
+! SUMMARY-  plane_angle_unit_and_si_unit ...............................:      1
+! SUMMARY-  product ....................................................:      4
+! SUMMARY-  product_category ...........................................:      4
+! SUMMARY-  product_definition .........................................:      4
+! SUMMARY-  product_definition_formation_with_specified_source .........:      4
+! SUMMARY-  product_definition_shape ...................................:      7
+! SUMMARY-  product_related_product_category ...........................:      4
+! SUMMARY-  property_definition ........................................:      2
+! SUMMARY-  property_definition_representation .........................:      2
+! SUMMARY-  representation .............................................:      2
+! SUMMARY-  representation_relationship_with_transformation_and_shape ..:      3
+! SUMMARY-  shape_definition_representation ............................:      4
+! SUMMARY-  shape_representation .......................................:      4
+! SUMMARY-  shape_representation_relationship ..........................:      3
+! SUMMARY-  si_unit_and_solid_angle_unit ...............................:      1
+! SUMMARY-  uncertainty_measure_with_unit ..............................:      4
+! SUMMARY-  vector .....................................................:     72
+! SUMMARY-  vertex_point ...............................................:    137
+! SUMMARY-                                                               -------
+! SUMMARY-  Total                                                           2790
+! STATUS-    
+! STATUS-   Converting to Output Form (Phase 2 of 3): 4-DEC-2023 9:09:12 AM
+! STATUS-    
+! STATUS-    
+! STATUS-   Generating UG geometry and placing them in parts
+! STATUS-    
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-DEC-2023  9:09:12 AM
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 1513
+! STATUS-    
+! STATUS-   fixing vertex and/or edge off surface faults
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! INFO-     Filing Part ..: D:\机器人\3d建模课程\机械臂\CPJ14-3_bl
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-DEC-2023  9:09:12 AM
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 1512
+! STATUS-    
+! STATUS-   fixing vertex and/or edge off surface faults
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! INFO-     Filing Part ..: D:\机器人\3d建模课程\机械臂\CPJ14-5_br
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-DEC-2023  9:09:12 AM
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 1511
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! INFO-     Filing Part ..: D:\机器人\3d建模课程\机械臂\BL-D14_p
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 4-DEC-2023  9:09:13 AM
+! INFO-     Filing Part ..: D:\机器人\3d建模课程\机械臂\CPJ14-BL-3-5_stp.prt
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     3
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              3
+! INFO-      
+! INFO-     Total number of solids input for this translation       :         3
+! INFO-      
+! INFO-     Number of solids created without body validation faults :         3
+! INFO-      
+! INFO-     Number of solids created with body validation fault(s)  :         0
+! INFO-      
+! INFO-     Number of solids ending up as sheet bodies              :         0
+! INFO-      
+! INFO-     End of Translation: 4-DEC-2023  9:09:13 AM
+! INFO-      

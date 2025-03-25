@@ -1,0 +1,153 @@
+﻿STEP to UG
+! INFO-     NX STEP AP203 - V11.0
+! INFO-      
+! INFO-     Start of Translation: 26-NOV-2023  11:53:28 AM
+! INFO-      
+! STATUS-   Converting Part: D:\机器人\3d建模课程\机械爪\C-BGHA6900ZZ-20.stp
+! SUMMARY-   
+! SUMMARY-    STEP Header Information
+! SUMMARY-   
+! SUMMARY-  Description      STEP AP203
+! SUMMARY-  Imp_Level        2;1
+! SUMMARY-  File_Name        C-BGHA6900ZZ-20
+! SUMMARY-  Date             2023-11-26T04:52:40+01:00
+! SUMMARY-  Author           License CC BY-ND 4.0
+! SUMMARY-  Organization     CADENAS
+! SUMMARY-  Pre_Version      ST-DEVELOPER v19.3
+! SUMMARY-  Orig_System      PARTsolutions
+! SUMMARY-  Authorization      
+! SUMMARY-  Schema_ID        ap203_configuration_controlled_3d_design_of_mechanical_parts_and_assemblies_mim_lf
+! SUMMARY-   
+! SUMMARY-    Summary of STEP Entities
+! SUMMARY-   
+! SUMMARY-  Entity Type                                                   Count
+! SUMMARY-  -----------                                                   ------
+! SUMMARY-  advanced_brep_shape_representation .........................:      3
+! SUMMARY-  advanced_face ..............................................:     59
+! SUMMARY-  application_context ........................................:      1
+! SUMMARY-  application_protocol_definition ............................:      1
+! SUMMARY-  axis2_placement_3d .........................................:    123
+! SUMMARY-  cartesian_point ............................................:    267
+! SUMMARY-  circle .....................................................:     60
+! SUMMARY-  closed_shell ...............................................:      3
+! SUMMARY-  context_dependent_shape_representation .....................:      3
+! SUMMARY-  cylindrical_surface ........................................:     28
+! SUMMARY-  design_context .............................................:      4
+! SUMMARY-  direction ..................................................:    302
+! SUMMARY-  edge_curve .................................................:    116
+! SUMMARY-  edge_loop ..................................................:     96
+! SUMMARY-  face_bound .................................................:     96
+! SUMMARY-  geometric_representation_context_and_global_uncertainty_a ..:      4
+! SUMMARY-  item_defined_transformation ................................:      3
+! SUMMARY-  length_unit_and_si_unit ....................................:      1
+! SUMMARY-  line .......................................................:     56
+! SUMMARY-  manifold_solid_brep ........................................:      3
+! SUMMARY-  mechanical_context .........................................:      4
+! SUMMARY-  next_assembly_usage_occurrence .............................:      3
+! SUMMARY-  oriented_edge ..............................................:    232
+! SUMMARY-  plane ......................................................:     27
+! SUMMARY-  plane_angle_unit_and_si_unit ...............................:      1
+! SUMMARY-  product ....................................................:      4
+! SUMMARY-  product_category ...........................................:      4
+! SUMMARY-  product_definition .........................................:      4
+! SUMMARY-  product_definition_formation_with_specified_source .........:      4
+! SUMMARY-  product_definition_shape ...................................:      7
+! SUMMARY-  product_related_product_category ...........................:      4
+! SUMMARY-  property_definition ........................................:      2
+! SUMMARY-  property_definition_representation .........................:      2
+! SUMMARY-  representation .............................................:      2
+! SUMMARY-  representation_relationship_with_transformation_and_shape ..:      3
+! SUMMARY-  shape_definition_representation ............................:      4
+! SUMMARY-  shape_representation .......................................:      4
+! SUMMARY-  shape_representation_relationship ..........................:      3
+! SUMMARY-  si_unit_and_solid_angle_unit ...............................:      1
+! SUMMARY-  toroidal_surface ...........................................:      4
+! SUMMARY-  uncertainty_measure_with_unit ..............................:      4
+! SUMMARY-  vector .....................................................:     56
+! SUMMARY-  vertex_point ...............................................:     88
+! SUMMARY-                                                               -------
+! SUMMARY-  Total                                                           1696
+! STATUS-    
+! STATUS-   Converting to Output Form (Phase 2 of 3): 26-NOV-2023 11:53:28 AM
+! STATUS-    
+! STATUS-    
+! STATUS-   Generating UG geometry and placing them in parts
+! STATUS-    
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-NOV-2023  11:53:28 AM
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 981
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! INFO-     Filing Part ..: D:\机器人\3d建模课程\机械爪\C-BGHA6900ZZ-20_h
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-NOV-2023  11:53:28 AM
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 980
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! INFO-     Filing Part ..: D:\机器人\3d建模课程\机械爪\bearing_6900
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-NOV-2023  11:53:29 AM
+! STATUS-    
+! STATUS-   Creating UG solid body from Input Ent Id 979
+! STATUS-    
+! STATUS-   simplifying Bsplines to analytics
+! STATUS-    
+! STATUS-   converting tolerant edges into exact edges
+! STATUS-    
+! STATUS-   doing final check of body to report any faults
+! STATUS-    
+! INFO-     Filing Part ..: D:\机器人\3d建模课程\机械爪\RRING-C-INT-22
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Solid .......................:     1
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              1
+! STATUS-   Creating the UG part (Phase 3 of 3): 26-NOV-2023  11:53:29 AM
+! INFO-     Filing Part ..: D:\机器人\3d建模课程\机械爪\C-BGHA6900ZZ-20_stp.prt
+! SUMMARY-   
+! SUMMARY-  Summary of Unigraphics Part Entities
+! SUMMARY-   
+! SUMMARY-  Entities Processed             Count
+! SUMMARY-  ------------------             -----
+! SUMMARY-  Component ...................:     3
+! SUMMARY-                                 -----
+! SUMMARY-  Total                              3
+! INFO-      
+! INFO-     Total number of solids input for this translation       :         3
+! INFO-      
+! INFO-     Number of solids created without body validation faults :         3
+! INFO-      
+! INFO-     Number of solids created with body validation fault(s)  :         0
+! INFO-      
+! INFO-     Number of solids ending up as sheet bodies              :         0
+! INFO-      
+! INFO-     End of Translation: 26-NOV-2023  11:53:29 AM
+! INFO-      
