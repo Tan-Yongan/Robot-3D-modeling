@@ -1,2 +1,2 @@
 # Robot-3D-modeling
-机器人建模作业，Solidworks &amp; UG
+机器人建模，Solidworks &amp; UG
